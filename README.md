@@ -15,4 +15,4 @@ Juan J. Gómez-Valverde, Christoph Sinz, Elisabet A. Rank, Zhe Chen, Andrés San
 https://doi.org/10.1117/1.JBO.26.6.065001
 
 ## License
-See the LICENSE file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/juanjogomez/WCAN/blob/main/LICENSE) file for license rights and limitations (MIT).
