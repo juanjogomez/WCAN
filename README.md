@@ -9,10 +9,7 @@ This work was partly supported by the European Union FP7 project BiopsyPen, the 
 Grant Nos. 611132,TEC2015-66978-R and RTI2018-098682- B-I00 MCIU/AEI/FEDER, EU.
 
 ## Citation
-Juan J. Gómez-Valverde, Christoph Sinz, Elisabet A. Rank, Zhe Chen, Andrés Santos, Wolfgang Drexler, María J. Ledesma-Carbayo. "Adaptive compounding speckle-noise-reduction filter for optical coherence tomography images." Journal of Biomedical Optics 26.06 (2021)
-
-## DOI
-https://doi.org/10.1117/1.JBO.26.6.065001
+Juan Jose Gomez-Valverde, Christoph Sinz, Elisabet A. Rank, Zhe Chen, Andrés Santos, Wolfgang Drexler, Maria Jesus Ledesma-Carbayo, "Adaptive compounding speckle-noise-reduction filter for optical coherence tomography images," J. Biomed. Opt. 26(6) 065001 (17 June 2021) https://doi.org/10.1117/1.JBO.26.6.065001
 
 ## License
 See the [LICENSE](https://github.com/juanjogomez/WCAN/blob/main/LICENSE) file for license rights and limitations (MIT).
